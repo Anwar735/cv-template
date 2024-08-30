@@ -9,9 +9,9 @@
 </head>
 
 <body>
-  <div class= "container" >
-    <div class= "header">
-      <div class= "img-area">
+  <div class="container" >
+    <div class="header">
+      <div class="img-area">
         <img src="" alt="">
                  
       </div>
@@ -21,18 +21,18 @@
     </div>
     <div class="main">
       <div class="left">
-        <h2>personal Informatioon </h2>
+        <h2>personal Information </h2>
 
         
         <p><strong>Name</strong>Muhammad Saad Anwar</p>  
         <p><strong>Age</strong>23</p> 
           <p><strong>Email</strong>SaadKhalidanwar16@gmail.com</p> 
-       <p><strong>Phone</strong>03180111958 </p> 
+       <p><strong>Phone</strong>03180111958</p> 
         <h2>Skills</h2>
         <ul>
              <li>HTML</li>   
               <li>CSS</li> 
-                <li>Javascript</li> 
+                <li>JavaScript</li> 
                  <li>React</li>
           
         </ul>
@@ -41,7 +41,7 @@
         <p>OOPS,DSA.DBMS,</p>
 
         <div class= "right">
-          <h2>Profeesional  Experince</h2>
+          <h2>Profesional Experince</h2>
           <h2>position 1`</h2>
           <h3>Web Developer</h3>
              <h5>2022-23</h5>
